@@ -1,14 +1,14 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:06B6D4&text=Beniori%20Armourofgod%20Jeremiah&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Data%20Analyst%20|%20Computer%20Engineering%20Student%20|%20Event%20Curator&descAlignY=58&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:06B6D4&text=Beniori%20Armourofgod%20Jeremiah&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Data%20Analyst%20|%20Computer%20Engineer|%20Event%20Curator&descAlignY=58&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Data+Analyst;Computer+Engineering+Student;Excel+Expert;SQL+Intermediate;Power+BI+Intermediate;Python+Beginner;Event+Curator+%26+Decorator;Turning+Data+Into+Business+Decisions"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Data+Analyst;Computer+Engineer;Excel+Expert;SQL+Intermediate;Power+BI+Intermediate;Python+Beginner;Event+Curator+%26+Decorator;Turning+Data+Into+Business+Decisions"/>
 </p>
 <h1 align="center">Hi 👋, I'm Beniori Armourofgod Jeremiah</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Data+Analyst;Computer+Engineering+Student;Excel+Expert;SQL+Intermediate;Power+BI+Intermediate;Python+Beginner;Event+Curator+%26+Decorator;Turning+Data+Into+Business+Decisions" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Data+Analyst;Computer+Engineer;Excel+Expert;SQL+Intermediate;Power+BI+Intermediate;Python+Beginner;Event+Curator+%26+Decorator;Turning+Data+Into+Business+Decisions" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 # 🚀 About Me
 
-I'm **Beniori Armourofgod Jeremiah**, a **Data Analyst** and **Computer Engineering student** passionate about transforming raw data into meaningful insights that drive smarter business decisions.
+I'm **Beniori Armourofgod Jeremiah**, a **Data Analyst** and **Computer Engineer** passionate about transforming raw data into meaningful insights that drive smarter business decisions.
 
 I enjoy building interactive dashboards, analyzing business performance, cleaning and transforming data, and solving real-world problems using data.
 
